@@ -1,0 +1,6 @@
+F:\Projects\Tienda\Tienda\bin\Debug\Tienda.exe.config
+F:\Projects\Tienda\Tienda\bin\Debug\Tienda.exe
+F:\Projects\Tienda\Tienda\bin\Debug\Tienda.pdb
+F:\Projects\Tienda\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+F:\Projects\Tienda\Tienda\obj\Debug\Tienda.exe
+F:\Projects\Tienda\Tienda\obj\Debug\Tienda.pdb
