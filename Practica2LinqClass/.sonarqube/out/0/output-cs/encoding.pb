@@ -1,0 +1,9 @@
+e
+\C:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\App_Start\BundleConfig.csutf-8e
+\C:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\App_Start\FilterConfig.csutf-8d
+[C:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\App_Start\RouteConfig.csutf-8i
+`C:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\Controllers\AreaController.csutf-8i
+`C:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\Controllers\HomeController.csutf-8Z
+QC:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\Global.asax.csutf-8`
+WC:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\Models\areaModels.csutf-8f
+]C:\Users\Hernan\source\repos\Practica2LinqClass\Practica2LinqClass\Properties\AssemblyInfo.csutf-8
