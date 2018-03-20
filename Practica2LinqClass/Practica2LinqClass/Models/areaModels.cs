@@ -11,19 +11,12 @@ namespace Practica2LinqClass.Models
 
         public List<area> listaAreas()
         {
-            List<area> lista = new List<area>()
+            List<area> lista = new List<area>();
 
             var query = dataEmpr.ListarArea();
 
-            if ()
-            {
-
-            }
-            if (kfdsjlsdk)
-            {
-
-
-            }
+            int temporal;
+            int numer;
             foreach (var items in query)
             {
                 area a = new area();
